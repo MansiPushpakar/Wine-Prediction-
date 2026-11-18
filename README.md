@@ -1,8 +1,9 @@
 # Wine Class Prediction — Streamlit deployment
 
 A standalone Streamlit app using scikit-learn's built-in Wine dataset. **No CSV, API keys, model files, or database required.**
-
+ live demo-https://7j3ihsu54x6e7x3tuurwta.streamlit.app/
 ## Run locally
+
 
 ```bash
 python -m pip install -r requirements.txt
