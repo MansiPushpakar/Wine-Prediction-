@@ -2,6 +2,7 @@
 
 A standalone Streamlit app using scikit-learn's built-in Wine dataset. **No CSV, API keys, model files, or database required.**
  live demo-https://7j3ihsu54x6e7x3tuurwta.streamlit.app/
+ github repo-https://github.com/MansiPushpakar/Wine-Prediction
 ## Run locally
 
 
